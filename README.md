@@ -14,6 +14,7 @@ Building useful things with code, exploring AI, and turning ideas into real-worl
 
 [![GitHub](https://img.shields.io/badge/GitHub-bysunil-181717?style=for-the-badge&logo=github)](https://github.com/bysunil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-pathakamuri/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bysunil/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bysunil.github.io/)
 
 </div>
@@ -137,6 +138,8 @@ Worked on automating the collection of hardware testbed data and updating the da
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bysunil&theme=tokyonight&hide_border=true)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/bysunil?theme=dark&font=baloo&ext=heatmap)
+
 </div>
 
 ---
@@ -156,6 +159,7 @@ I'm always interested in discussing technology, building useful products, and co
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/bysunil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-pathakamuri/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bysunil/)
 
 </div>
 
